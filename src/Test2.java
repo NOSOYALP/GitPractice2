@@ -3,6 +3,7 @@ public class Test2 {
 
     // can we add smt ınn  here
        // solved ıdk
+        //i added somethıng ın to the branch
 
     }
 
